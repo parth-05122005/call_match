@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv
+venv/
+# Secrets (copy .env.example to .env instead)
+.env
+
+# Frontend
+node_modules/
+dist/
